@@ -1,1 +1,3 @@
 # checkarr
+
+Test warehouse creation.
